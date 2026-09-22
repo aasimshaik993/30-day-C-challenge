@@ -1,4 +1,4 @@
-// Problem: A student has marks for five subjects. Write a C program to read the marks of all five subjects and calculate the total marks, average marks, and percentage. Display all three results clearly.
+//Problem: A student has marks for five subjects. Write a C program to read the marks of all five subjects and calculate the total marks, average marks, and percentage. Display all three results clearly.
 #include <stdio.h>
 
 int main()
