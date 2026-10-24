@@ -27,7 +27,7 @@ min = a[0];
 for (i = 0; i < n; i++) {
 	sum += a[i];
 	if (a[i] > max) max = a[i];
-	if (a[i] < min) min=a[i];
+	if (a[i] < min) min = a[i];
 				}
 avg = sum/n;
 printf("Sum of readings is: %d\n", sum);
