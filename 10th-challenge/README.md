@@ -9,3 +9,5 @@ Algorithm:
 8. Display recommendations
 9. Design menu
 10. Stop
+
+NOTE: ANY DATA USED IS ONLY SAMPLE DATA AND NOT ACTUAL CAMPUS READINGS.
