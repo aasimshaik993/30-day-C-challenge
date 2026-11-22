@@ -8,3 +8,4 @@
 8. option 4: show recommended actions that need to be taken
 9. option 5: exit the program
 10. Stop
+NOTE: READINGS ARE ONLY SIMULATED SAMPLE DATA
